@@ -1,4 +1,4 @@
-tableborder
+table
 {
     border: solid 2px rgb(36, 7, 7);
     border-collapse: collapse;
@@ -43,6 +43,7 @@ th
 {
     height:700px;
     width: 1000px;
+    z
 }
 #heading
 {
