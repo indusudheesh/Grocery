@@ -1,0 +1,133 @@
+{
+    "items":
+    [
+        {
+            "slno":"001",
+            "name":"sugar",
+            "unit":"2",
+            "quantity":"1 kg",
+            "dep":"Grocery",
+            "note":"Brand:Bajaj Hindusthan Sugar Limited -- product:crystal white sugar"
+        },
+        {
+            "slno":"002",
+            "name":"Rice",
+            "unit":"2",
+            "quantity":"5 kg",
+            "dep":"Pulses and Grains",
+            "note":"Brand:India Gate --product:Extra long basmathi sella rice "
+        },
+        {
+            "slno":"003",
+            "name":"coconut oil",
+            "unit":"2",
+            "quantity":"1 ltr",
+            "dep":"Grocery",
+            "note":"Brand:KLF shudhi --  Product:Extra virgin coconut oil"
+        },
+        {
+            "slno":"004",
+            "name":"Whipping Cream",
+            "unit":"4",
+            "quantity":"1 ltr",
+            "dep":"confectionery and Baking",
+            "note":"Brand:Pillsbury -- Product:pillsbury Ivory Whipping topping"
+        },
+        {
+            "slno":"005",
+            "name":"Wheat Flour",
+            "unit":"2",
+            "quantity":"1 kg",
+            "dep":"Grocery",
+            "note":"Brand:Ashirvad -- Product:Pulses and Grains"
+        },
+        {
+            "slno":"006",
+            "name":"Egg",
+            "unit":"2",
+            "quantity":"10 No.s",
+            "dep":"Poultry",
+            "note":"Brand:Local"
+        },
+        {
+            "slno":"007",
+            "name":"yogurt",
+            "unit":"2",
+            "quantity":"500 ml",
+            "dep":"Diary",
+            "note":"Brand:Milky mist -- product:fruit flavoured"
+        },
+        {
+            "slno":"008",
+            "name":"Chocolate",
+            "unit":"1",
+            "quantity":"1 pack",
+            "dep":"confectionery and baking",
+            "note":"Brand:cadbury Diarymilk -- Product:Diarymilk Oreo Redvelvet"
+        },
+        {
+            "slno":"009",
+            "name":"chicken Meat",
+            "unit":"2",
+            "quantity":"1 kg",
+            "dep":"poultry",
+            "note":"Brand:Urban platter"
+        },
+        {
+            "slno":"010",
+            "name":"Cashewnut",
+            "unit":"1",
+            "quantity":"1 kg",
+            "dep":"Dry fruits and Nuts",
+            "note":"Brand:Nurture Tree Crunchy Cashews."
+        },
+        {
+            "slno":"011",
+            "name":"Curd",
+            "unit":"1",
+            "quantity":"500 ml",
+            "dep":"Diary",
+            "note":"Brand:Milma"
+        },
+        {
+            "slno":"012",
+            "name":"Tomato",
+            "unit":"1",
+            "quantity":"1 kg",
+            "dep":"Fruits and Vegetables",
+            "note":"Brand:Local"
+        },
+        {
+            "slno":"013",
+            "name":"Biscuit",
+            "unit":"1",
+            "quantity":"1 packet",
+            "dep":"Confectionery and Baking",
+            "note":"Brand:Dark fantacy --  Product:Bourbon"
+        },
+        {
+            "slno":"014",
+            "name":"Olive Oil",
+            "unit":"1",
+            "quantity":"500 ml",
+            "dep":"Grocery",
+            "note":"Brand:Figaro -- Product:Extra virgin olive oil"
+        },
+        {
+            "slno":"015",
+            "name":"Black gram",
+            "unit":"1",
+            "quantity":"1 kg",
+            "dep":"Pulses and Grains",
+            "note":"Local"
+        },
+        {
+            "slno":"016",
+            "name":"Avocado",
+            "unit":"1",
+            "quantity":"1 kg",
+            "dep":"Fruits and Vegetables",
+            "note":"Imported"
+        }
+    ]
+}
