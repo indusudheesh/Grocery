@@ -41,6 +41,7 @@ var tr=tble.insertRow(-1);
     var inv = document.getElementById("inv");
     inv.innerHTML = "";
     inv.appendChild(tble);
+    tble.style.border="solid 2px black";
     
        
 }    
