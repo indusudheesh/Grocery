@@ -45,8 +45,7 @@ var tr=tble.insertRow(-1);
     var p=document.getElementById("heading");
     p.style="font-weight: 700; font-style: oblique; font-size: 30px; text-decoration:underline";
     document.getElementById("imgss").className="imgss";
-    tble.th.className="th";
-    tr.cells.className="td";
+    
     
        
 }    
