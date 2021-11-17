@@ -37,13 +37,13 @@ td
 
 #imgs
 {position:absolute;
-    top: 50px;
+    top: 100px;
 }
 
 img
 {
-    height:550px;
-    width: 850px;
+    height:700px;
+    width: 1000px;
 }
 #heading
 {
