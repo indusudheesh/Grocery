@@ -41,10 +41,10 @@ var tr=tble.insertRow(-1);
     var inv = document.getElementById("inv");
     inv.innerHTML = "";
     inv.appendChild(tble);
-    tble.className="tableborder";
+    /* tble.className="tableborder";
     var p=document.getElementById("heading");
     p.style="font-weight: 700; font-style: oblique; font-size: 30px; text-decoration:underline";
-    
+     */
     
     
        
