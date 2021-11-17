@@ -20,7 +20,7 @@ th
     text-align: center;
     color: rgb(7, 51, 71);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 22px;
+    font-size: 20px;
 }
 td
 {
@@ -30,8 +30,8 @@ td
     text-align:center;
     color: rgb(9, 30, 58);
     font-family:Georgia, 'Times New Roman', Times, serif;
-    font-size: 16px;
-    font-weight: 550;
+    font-size: 12px;
+    font-weight: 400;
 }
 
 
